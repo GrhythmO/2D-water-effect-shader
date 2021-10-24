@@ -10,5 +10,5 @@ UnderWater2D_obj
 Apply the shader to a TextureRect or a Sprite.
 
 UnderWater2D_screen
-under "CanvasLayer" node. and set TextureRect/sprite size fit a viewport size.
+Apply the shader to a TextureRect or a Sprite under "CanvasLayer" node. and set TextureRect/sprite size fit a viewport size.
 using Shader params to adjust the effect as you like.
